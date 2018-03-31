@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\tejur\onedrive\desktop\oop project\bulleandcows\bullcowgame\main.cpp(38): warning C4129: ' ': unrecognized character escape sequence
+c:\users\tejur\onedrive\desktop\oop project\bulleandcows\bullcowgame\main.cpp(39): warning C4129: ' ': unrecognized character escape sequence
+c:\users\tejur\onedrive\desktop\oop project\bulleandcows\bullcowgame\main.cpp(40): warning C4129: ' ': unrecognized character escape sequence
+c:\users\tejur\onedrive\desktop\oop project\bulleandcows\bullcowgame\main.cpp(40): warning C4129: '/': unrecognized character escape sequence
+c:\users\tejur\onedrive\desktop\oop project\bulleandcows\bullcowgame\main.cpp(41): warning C4129: '/': unrecognized character escape sequence
+c:\users\tejur\onedrive\desktop\oop project\bulleandcows\bullcowgame\main.cpp(41): warning C4129: ' ': unrecognized character escape sequence
+c:\users\tejur\onedrive\desktop\oop project\bulleandcows\bullcowgame\main.cpp(42): warning C4129: ' ': unrecognized character escape sequence
+c:\users\tejur\onedrive\desktop\oop project\bulleandcows\bullcowgame\main.cpp(43): warning C4129: '|': unrecognized character escape sequence
+  BullCowGame.vcxproj -> C:\Users\tejur\OneDrive\Desktop\OOP PROJECT\BulleAndCows\x64\Debug\BullCowGame.exe
